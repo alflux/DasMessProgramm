@@ -20,11 +20,6 @@ import numpy as np
 from typing import List
 from overview import Overview
 
-from scientificdevices.scientificMagnetics.smc import SMC
-from scientificdevices.stanfordResearchSystems.sr830m import SR830m
-from scientificdevices.lakeshore.ls340 import LS340
-from scientificdevices.vsm.vsmEncoder.vsmEncoder import VsmEncoder
-from scientificdevices.vsm.vsmMotorControl.vsmMotor import VsmMotor
 
 REGISTRY = {}
 
